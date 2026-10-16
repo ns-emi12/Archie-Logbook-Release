@@ -61,4 +61,4 @@ Since this is a small plugin, most other mods should be compatible out of the bo
 > This mod is currently provided as-is. Keep backups of your logbook data if you want to avoid losing your notes.
 
 > [!IMPORTANT] 
-> AI tools were used to help troubleshoot minor errors and assist with debugging. The mod was developed and will continue be maintained by me.
+> AI tools were used to help troubleshoot minor errors and assist with debugging. The mod was developed and will continue to be maintained by me.
