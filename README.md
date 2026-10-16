@@ -28,8 +28,7 @@ With multiple pages, you can keep separate records for trade routes, port inform
 > The logbook automatically saves its data when closed!
 
 ## Screenshots
-![The Logbook's GUI](https://i.imgur.com/613lYzC.png)
-
+![The Logbook's GUI](https://i.imgur.com/edUclBQ.png) ![The Logbook's GUI](https://i.imgur.com/GAozk02.png) ![The Logbook's GUI](https://i.imgur.com/CLf0VeE.png)
 ## Installation
 
 1. Install [BepInEx 5](https://github.com/BepInEx/BepInEx) if you haven't already.
