@@ -18,7 +18,7 @@ With multiple pages, you can keep separate records for trade routes, port inform
     
 # Usage
 
-  - Press `F8` to open or close the Logbook.
+  - Press `F8` to open or close the Logbook (can be rebound in the Configuration Manager).
   - Use the `Previous` and `Next` buttons to navigate between pages.
   - Select `New Page` to create another page.
   - Use `Rename` to change a page's title.
@@ -33,9 +33,9 @@ With multiple pages, you can keep separate records for trade routes, port inform
 
 1. Install [BepInEx 5](https://github.com/BepInEx/BepInEx) if you haven't already.
 2. Download the latest release.
-3. Place the mod's `.dll` file in your Sailwind `BepInEx/plugins` folder. 
+3. Place the mod's `.dll` file in your Sailwind `BepInEx/plugins` directory. 
 > [!IMPORTANT]
-> For Thunderstore Mod Manager users, your `BepInEx/plugins` folder will be located at:\
+> For Thunderstore Mod Manager users, your `BepInEx/plugins` directory will be located at:\
 > `AppData\Roaming\Thunderstore Mod Manager\DataFolder\Sailwind\profiles\<profile_name>`
 4. Launch Sailwind.
 
@@ -50,8 +50,6 @@ The file contains your saved pages, titles, and note contents. You can back it u
 # Compatibility
 
 This is a mod for Sailwind and therefore requires BepInEx 5.
-
-Not compatible with any mods that use `F8` as a default keybind, unless said mod's binding is rebound to another key.
 
 Since this is a small plugin, most other mods should be compatible out of the box. However, compatibility with other mods has not been fully tested.
 
